@@ -1,0 +1,11 @@
+D:\stuff\TosTracker\ToSTracker\ToSTracker\bin\Release\ToSTracker.exe.config
+D:\stuff\TosTracker\ToSTracker\ToSTracker\bin\Release\ToSTracker.exe
+D:\stuff\TosTracker\ToSTracker\ToSTracker\bin\Release\ToSTracker.pdb
+D:\stuff\TosTracker\ToSTracker\ToSTracker\obj\Release\ToSTracker.csproj.AssemblyReference.cache
+D:\stuff\TosTracker\ToSTracker\ToSTracker\obj\Release\ToSTracker.csproj.SuggestedBindingRedirects.cache
+D:\stuff\TosTracker\ToSTracker\ToSTracker\obj\Release\ToSTracker.Form1.resources
+D:\stuff\TosTracker\ToSTracker\ToSTracker\obj\Release\ToSTracker.Properties.Resources.resources
+D:\stuff\TosTracker\ToSTracker\ToSTracker\obj\Release\ToSTracker.csproj.GenerateResource.cache
+D:\stuff\TosTracker\ToSTracker\ToSTracker\obj\Release\ToSTracker.csproj.CoreCompileInputs.cache
+D:\stuff\TosTracker\ToSTracker\ToSTracker\obj\Release\ToSTracker.exe
+D:\stuff\TosTracker\ToSTracker\ToSTracker\obj\Release\ToSTracker.pdb
