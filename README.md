@@ -8,3 +8,10 @@ it is **NOT** a cheat tool!
 works for both web and Steam version.
 
 it does not interact with the game in any way.
+
+
+## Download
+
+[Download Link](https://github.com/Lust-Ware/ToSRoleTracker/releases/download/ToSTracker/ToSTracker.exe)
+
+[Releases Page](https://github.com/Lust-Ware/ToSRoleTracker/releases/tag/ToSTracker)
